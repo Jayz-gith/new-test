@@ -1,0 +1,7 @@
+streamlit
+PyGithub
+feedparser
+google-generativeai
+pandas
+plotly
+
